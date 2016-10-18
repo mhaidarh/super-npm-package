@@ -1,6 +1,6 @@
 {
   "name": "super-npm-pkg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Super npm package",
   "main": "index.js",
   "scripts": {
