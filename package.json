@@ -1,0 +1,24 @@
+{
+  "name": "super-npm-package",
+  "version": "0.1.0",
+  "description": "Super npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhaidarh/super-npm-package.git"
+  },
+  "keywords": [
+    "super",
+    "npm",
+    "package"
+  ],
+  "author": "M Haidar Hanif <npm@mhaidarhanif.com> (https://mhaidarhanif.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhaidarh/super-npm-package/issues"
+  },
+  "homepage": "https://github.com/mhaidarh/super-npm-package#readme"
+}
