@@ -1,4 +1,4 @@
 const snp = require('./index')
 
-snp.print()
+snp.print('blue')
 

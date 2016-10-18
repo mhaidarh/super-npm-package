@@ -1,6 +1,6 @@
 const colors = require('colors')
 
-exports.print = function() {
-  console.log('[super]'.red)
+exports.print = function(color = 'red') {
+  console.log('[super]'[color])
 }
 
