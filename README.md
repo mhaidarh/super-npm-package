@@ -1,6 +1,10 @@
-# super-npm-package
+# `super-npm-package`
 
-Super npm package demo
+[![npm](https://img.shields.io/npm/v/super-npm-pkg.svg)](https://npmjs.com/package/super-npm-pkg)
+
+[![npm](https://nodei.co/npm/super-npm-package.png?compact=true)](https://nodei.co/npm/super-npm-package)
+
+Super npm package demo.
 
 ## Installation
 
