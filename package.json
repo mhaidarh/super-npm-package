@@ -1,7 +1,7 @@
 {
   "name": "super-npm-pkg",
   "version": "0.2.2",
-  "description": "Super npm package",
+  "description": "Super npm package demo. Currently a simple print function. The _super_ name is Just Exaggerating&trade;.",
   "main": "index.js",
   "scripts": {
     "start": "node index",
